@@ -12,12 +12,17 @@ In this data science capstone project, we delve into SpaceX’s dataset to predi
 KEY STEPS
 
 Data Collection: We gather data using SpaceX’s REST API and web scraping techniques.
+
 Data Wrangling: We clean and preprocess the data to create a success/fail outcome variable.
+
 Exploratory Data Analysis (EDA): We visualize and explore the impact of various factors on landing success rates.
+
 Predictive Analytics: We build machine learning models (logistic regression, SVM, decision tree, and K-nearest neighbor) to predict landing outcomes.
 
 RESULTS
 
 Launch success has improved over time.
+
 KSC LC-39A stands out with the highest success rate among landing sites.
+
 Orbits ES-L1, GEO, HEO, and SSO have a 100% success rate.
